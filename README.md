@@ -27,4 +27,4 @@ Example Insight: By using the interactive visuals, HR teams can pinpoint specifi
 
 
 # 5. Screenshot
-  link: 
+  link: https://github.com/spoojya/HR_Analytics_Dashboard/blob/main/Dashboard_Snapsot.png
